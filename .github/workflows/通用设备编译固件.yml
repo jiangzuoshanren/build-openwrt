@@ -3,7 +3,7 @@
 # Description: Build OpenWrt
 #============================================================================================
 
-name: Lienol-diy
+name: 通用设备
 
 on:
   repository_dispatch:
